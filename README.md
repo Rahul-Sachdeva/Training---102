@@ -23,3 +23,23 @@
 *   **Methods -> count(), index() etc.**
 *   **30+ Practice Questions on Lists and Tuple**
 
+# **Day 3 of Training at Ansh Info Tech**
+
+## ***Topics Covered***
+
+#### **Sets in Python**
+*   **Basic Set Operations**
+*   **Set Methods**
+*   **Immutability and Sets**
+*   **Frozen Sets**
+*   **Set Applications**
+*   **25 Practice Questions on Sets**
+
+### **Dictionaries in Python**
+*   **Basic Dictionary Operations**
+*   **Dictionary Iteration **
+*   **Dictionary Functions**
+*   **Dictionary Methods**
+*   **30 Practice Questions on Dictionaries**
+
+
