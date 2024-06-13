@@ -27,7 +27,7 @@
 
 ## ***Topics Covered***
 
-#### **Sets in Python**
+### **Sets in Python**
 *   **Basic Set Operations**
 *   **Set Methods**
 *   **Immutability and Sets**
@@ -64,3 +64,15 @@
 
 ### **Precedence of Operators in Python**
 * **20 Practice Questions on Precedence of Operators in Python**
+
+# **Day 5 of Training at Ansh Info Tech**
+
+## ***Topics Covered***
+
+*   **if-elif-else conditionals**
+*   **input() Function**
+*   **for() Loop**
+*   **while() Loop**
+*   **30 Practice Questions on if-elif-else Statements**
+*   **40 Practice Questions on for and while loops**
+
