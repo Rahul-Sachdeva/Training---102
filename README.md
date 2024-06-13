@@ -37,9 +37,30 @@
 
 ### **Dictionaries in Python**
 *   **Basic Dictionary Operations**
-*   **Dictionary Iteration **
+*   **Dictionary Iteration**
 *   **Dictionary Functions**
 *   **Dictionary Methods**
 *   **30 Practice Questions on Dictionaries**
 
+# **Day 4 of Training at Ansh Info Tech**
 
+## ***Topics Covered***
+
+### **Strings in Python**
+* **String Methods**
+* **String Formatting**
+* **String Slciing and Concatentation**
+* **30 Practice Questions on Strings**
+
+### **Operators in Python**
+* **Arithmetic Operators**
+* **Bitwise Operators**
+* **Relational Operators**
+* **Logical Operators**
+* **Assignment Operators**
+* **Identity Operators**
+* **Membership Operators**
+* **30 Practice Questions on Operators in Python**
+
+### **Precedence of Operators in Python**
+* **20 Practice Questions on Precedence of Operators in Python**
