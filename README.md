@@ -75,4 +75,19 @@
 *   **while() Loop**
 *   **30 Practice Questions on if-elif-else Statements**
 *   **40 Practice Questions on for and while loops**
+  
+# **Day 6 of Training at Ansh Info Tech**
 
+## **Topics Covered**
+
+*   **List Comprehension**
+*   **Dictionary Comprehension**
+*   **Functions in Python**
+*   **Function Argument Types in Python**
+*   **User Defined Functions**
+*   **In Built Functions**
+*   **Lambda Functions, Recursive Functions**
+*   **20 Practice Questions on Python Functions**
+*   **20 Practice Questions on List and Dictionary Comprehension**
+*   **4 Real World Applications**
+*   **Text Adventure Game, Hangman Game, Contact Application, Expense Tracker**
