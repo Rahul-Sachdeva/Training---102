@@ -91,3 +91,15 @@
 *   **20 Practice Questions on List and Dictionary Comprehension**
 *   **4 Real World Applications**
 *   **Text Adventure Game, Hangman Game, Contact Application, Expense Tracker**
+
+#     **Day 7 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+###   **Object Oriented Programming in Python**
+
+* **Classes in Python**
+* **Objects in Python**
+* **Object Attributes in Python**
+* **20 Practice Questions on Python Classes and Objects**
+* **5+ Extra Practice Questions**
+
+
