@@ -113,3 +113,16 @@
 * **Questions on Access Specifiers**
 * **10+ Practice Questions on these Topics**
 
+#     **Day 9 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+###   **Object Oriented Programming in Python**
+
+* **Inheritance in Python**
+* **Single Inheritance**
+* **Multiple Inheritance**
+* **Multilevel Inheritance**
+* **Hierarchical Inheritance**
+* **Hybrid Inheritance**
+* **12 Practice Questions on these Topics**
+
+
