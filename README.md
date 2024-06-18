@@ -125,4 +125,14 @@
 * **Hybrid Inheritance**
 * **12 Practice Questions on these Topics**
 
+#     **Day 10 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+
+* **Exception Handling in Python**
+* **File Handling in Python**
+* **Random Module in Python**
+* **50 Questions on Exception Handling**
+* **25 Questions on File Handling**
+* **15+ Questions on Random Module**
+* **Rock, Paper, Scissors Game Using Python**
 
