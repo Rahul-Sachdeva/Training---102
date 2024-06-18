@@ -102,4 +102,14 @@
 * **20 Practice Questions on Python Classes and Objects**
 * **5+ Extra Practice Questions**
 
+#     **Day 8 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+###   **Object Oriented Programming in Python**
+
+* **Abstraction in Python**
+* **Encapsulation in Python**
+* **Access Specifiers in Python**
+* **Class Diagram**
+* **Questions on Access Specifiers**
+* **10+ Practice Questions on these Topics**
 
