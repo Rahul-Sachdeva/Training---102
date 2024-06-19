@@ -136,3 +136,16 @@
 * **15+ Questions on Random Module**
 * **Rock, Paper, Scissors Game Using Python**
 
+#     **Day 11 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+
+* **Math Module in Python** - Trignometric, Logarithmic, Exponential etc. Functions
+* **DateTime Module in Python** -  today(), now() etc. Functions
+* **Numpy Introduction in Python** -  Applications, N-dimensional Arrays, Operations like Reshape, indexing etc. , Functions, Random etc.
+* **25 Questions on Math Module**
+* **25 Questions on DateTime Module**
+* **Practice Worksheet on Numpy Module**
+
+
+
+
