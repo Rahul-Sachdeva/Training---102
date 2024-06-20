@@ -158,5 +158,18 @@
     - *Creation, Accessing, Adding and Deleting Rows/Columns of DataFrame, Conditional Selection*
 * **Pandas Worksheet 1 Solved**
 
+#     **Day 13 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+
+* **Pandas Library**
+* **DataFrames**
+  * Setting Index - set_index(), reset_index()
+  * Handling Missing Values - dropna(), fillna()
+  * Grouping - groupby(), grouped_df.min() etc.
+  * Custom Functions - .apply(function_name)
+  * Joining - concat([df, new_row])
+* **Worksheet For Practicing Pandas**
+* **Python Exercises**
+
 
 
