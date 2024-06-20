@@ -146,6 +146,17 @@
 * **25 Questions on DateTime Module**
 * **Practice Worksheet on Numpy Module**
 
+#     **Day 12 of Training at Ansh Info Tech**
+##    ***Topics Covered***
+
+* **Numpy Library**  
+  + *Indexing, Sorting, Slicing, Conditional Statements, Copying, Aggregate Functions*
+* **Pandas Library**
+  + **Series**
+    - *Creation using Lists or Dictionary, Series Labels and Accesing Series Items*
+  + **DataFrames**
+    - *Creation, Accessing, Adding and Deleting Rows/Columns of DataFrame, Conditional Selection*
+* **Pandas Worksheet 1 Solved**
 
 
 
